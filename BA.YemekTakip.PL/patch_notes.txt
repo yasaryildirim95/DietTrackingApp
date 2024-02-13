@@ -1,0 +1,13 @@
+5.10.2023
+- Resim bulunamadı eklendi.
+- Portion decimal yapıldı.
+- Portion replace yapıldı (",",".")
+- Portion string engellendi.
+- Öğüne yemek ekleme fonk. yapıldı.
+- Yemek eklerken control fonk. yapıldı.
+- Şifre *** düzeltildi.
+- PassChar için fonk. yazıldı.
+- Üye olurken de char pass eklendi.
+
+X.10.2023
+

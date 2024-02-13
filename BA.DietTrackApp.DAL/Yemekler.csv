@@ -1,0 +1,332 @@
+﻿Id,Name,Calori,FoodTypeId
+1,Armut-1 adet (orta),114,1
+2,Ayva-1 adet (orta),98,1
+3,Beyaz dut-1 kase (orta),44,1
+4,Beyaz üzüm-1 kase (orta),163,1
+5,Böğürtlen-1 kase (orta),68,1
+6,Çilek-1 kase (orta),46,1
+7,Elma-1 adet (orta),52,1
+8,Erik-1 adet (orta),9,1
+9,Frambuaz-1 kase (orta),52,1
+10,Greyfurt-1 adet (orta),150,1
+11,İncir-1 adet (orta),48,1
+12,Karadut-1 kase (orta),343,1
+13,Karpuz-1 dilim (orta),105,1
+14,Kavun-1 dilim (orta),76,1
+15,Kayısı-1 adet (orta),14,1
+16,Kiraz-1 adet (orta),4,1
+17,Kivi-1 adet (orta),61,1
+18,Kuşburnu-1 kase (orta),49,1
+19,Limon-1 adet (orta),43,1
+20,Mandalina-1 adet (orta),66,1
+21,Muz-1 adet (orta),151,1
+22,Portakal-1 adet (orta),101,1
+23,Siyah üzüm-1 kase (orta),160,1
+24,Şeftali-1 adet (orta),78,1
+25,Vişne-1 adet (orta),3,1
+26,Yaban mersini-1 kase (orta),44,1
+27,Yeşil üzüm-1 kase (orta),159,1
+28,Ananas-1 dilim (orta),40,1
+29,Avokado-1 adet,224,1
+30,Çarkıfelek-1 adet,97,1
+31,Hindistan cevizi-1 adet,354,1
+32,Hurma-1 adet,26,1
+33,Mango-1 adet,59,1
+34,Papaya-1 adet,42,1
+35,Pomelo-1 dilim (orta),11,1
+36,Yıldız meyvesi-1 adet,30,1
+37,Dut-100 gram,336,1
+38,Goji berry-100 gram,346,1
+39,Kuru incir-100 gram,249,1
+40,Kuru kayısı-100 gram,241,1
+41,Kuru üzüm-100 gram,299,1
+42,Kuru yaban mersini-100 gram,302,1
+43,Kurutulmuş portakal-100 gram,335,1
+44,Kuş üzümü-100 gram,283,1
+45,Muz kurusu-100 gram,525,1
+46,Akdeniz yeşillikleri-100 gram,42,2
+47,Bakla-100 gram,72,2
+48,Bal kabağı-100 gram,33,2
+49,Bamya-100 gram,36,2
+50,Beyaz lahana-100 gram,25,2
+51,Bezelye-100 gram,84,2
+52,Biber-100 gram,22,2
+53,Brokoli-100 gram,34,2
+54,Brüksel lahanası-100 gram,63,2
+55,Deniz börülcesi-100 gram,40,2
+56,Dere otu-100 gram,42,2
+57,Domates-100 gram,22,2
+58,Enginar-100 gram,53,2
+59,Göbek salata-100 gram,13,2
+60,Havuç-100 gram,45,2
+61,Ispanak-100 gram,26,2
+62,Kabak-100 gram,26,2
+63,Kara lahana-100 gram,45,2
+64,Karnıbahar-100 gram,27,2
+65,Kereviz-100 gram,40,2
+66,Kırmızı lahana-100 gram,31,2
+67,Kıvırcık salata-100 gram,20,2
+68,Körpe ıspanak-100 gram,26,2
+69,Kuşkonmaz-100 gram,26,2
+70,Kuzu kulağı-100 gram,42,2
+71,Limon-1 adet,56,2
+72,Madımak-100 gram,22,2
+73,Mantar-100 gram,28,2
+74,Marul-100 gram,14,2
+75,Maskulin salata-100 gram,14,2
+76,Maydonoz-100 gram,44,2
+77,Mısır-1 adet,91,2
+78,Pancar-100 gram,42,2
+79,Patates-100 gram,76,2
+80,Patlıcan-100 gram,25,2
+81,Pazı-100 gram,33,2
+82,Pırasa-100 gram,52,2
+83,Roka-100 gram,33,2
+84,Salatalık-100 gram,15,2
+85,Sarımsak-100 gram,123,2
+86,Semiz otu-100 gram,32,2
+87,Soğan-1 adet,39,2
+88,Soya filizi-100 gram,51,2
+89,Şalgam-100 gram,30,2
+90,Taze biberiye-100 gram,118,2
+91,Taze fasülye-100 gram,32,2
+92,Taze fesleğen-100 gram,30,2
+93,Taze kekik-100 gram,101,2
+94,Taze kişniş-100 gram,33,2
+95,Taze nane-100 gram,65,2
+96,Taze tarhun-100 gram,255,2
+97,Taze zencefil-100 gram,80,2
+98,Tere-100 gram,33,2
+99,Turp-1 adet,19,2
+100,Yer elması-1 adet,75,2
+101,Yonca filizi-100 gram,49,2
+102,Defne yaprağı-100 gram,31,2
+103,Karabiber-100 gram,26,2
+104,Karanfil-100 gram,32,2
+105,Kereviz tozu-100 gram,35,2
+106,Kırmızı pulbiber-100 gram,16,2
+107,Kimyon-100 gram,13,2
+108,Köri-100 gram,15,2
+109,Kuru bamya-100 gram,27,2
+110,Kuru biberiye-100 gram,30,2
+111,Kuru dereotu-100 gram,25,2
+112,Kuru domates-100 gram,26,2
+113,Kuru fesleğen-100 gram,27,2
+114,Kuru kekik-100 gram,28,2
+115,Kuru kişniş-100 gram,30,2
+116,Kuru maydonoz-100 gram,28,2
+117,Kuru nane-100 gram,25,2
+118,Kuru patlıcan-100 gram,29,2
+119,Kuru tarhun-100 gram,26,2
+120,Lavanta-100 gram,14,2
+121,Mahlep-100 gram,14,2
+122,Muskat-100 gram,19,2
+123,Rezene tohumu-100 gram,35,2
+124,Safran-100 gram,16,2
+125,Sarımsak tozu-100 gram,15,2
+126,Sumak-100 gram,19,2
+127,Tarçın-100 gram,19,2
+128,Vanilya-100 gram,12,2
+129,Yenibahar-100 gram,16,2
+130,Zencefil tozu-100 gram,35,2
+131,Zerdeçal-100 gram,14,2
+132,Akıtma-1 porsiyon,127,3
+133,Anne kurabiyesi-1 porsiyon,503,3
+134,Avcı böreği-1 porsiyon,426,3
+135,Boşnak mantısı-1 porsiyon,431,3
+136,Çekirdekli ekmek-1 porsiyon,208,3
+137,Çiğ börek-1 porsiyon,528,3
+138,Ekşi mayalı köy ekmeği-1 porsiyon,192,3
+139,Elmalı turta-1 porsiyon,441,3
+140,Ev yapımı lahmacun-1 porsiyon,327,3
+141,Fındık lahmacun-1 porsiyon,233,3
+142,Akdarı-100 gram,378,4
+143,Arpa-100 gram,354,4
+144,Ayçiçeği tohumu-100 gram,584,4
+145,Buğday kepeği-100 gram,216,4
+146,Çavdar tohumu-100 gram,281,4
+147,Esmer pirinç-100 gram,388,4
+148,Galeta-100 gram,390,4
+149,Grissini (İnce)-100 gram,399,4
+150,İnce mısır unu-100 gram,351,4
+151,Kara buğday-100 gram,343,4
+152,Keten tohumu-100 gram,534,4
+153,Mısır nişastası-100 gram,381,4
+154,Tortilla-100 gram,237,4
+155,Yulaf kepeği-100 gram,246,4
+156,Akceviz-100 gram,612,5
+157,Bakla-100 gram,84,5
+158,Bambu filizi-100 gram,27,5
+159,Bamya-100 gram,33,5
+160,Beyaz fasülye-100 gram,336,5
+161,Bezelye-100 gram,81,5
+162,Barbunya fasülyesi-100 gram,347,5
+163,Börülce-100 gram,115,5
+164,Kahverengi mercimek-100 gram,353,5
+165,Kırmızı mercimek-100 gram,329,5
+166,Maş fasülyesi-100 gram,12,5
+167,Nohut-100 gram,364,5
+168,Soya fasülyesi-100 gram,147,5
+169,Yer fıstığı-100 gram,567,5
+170,Yeşil fasülye-100 gram,31,5
+171,Yeşil mercimek-100 gram,257,5
+172,Hindi but-100 gram,208,6
+173,Hindi füme-100 gram,100,6
+174,Hindi göğüs-100 gram,162,6
+175,Hindi jambon-100 gram,121,6
+176,Hindi kıyma-100 gram,165,6
+177,Hindi pastırma-100 gram,268,6
+178,Tavuk but-100 gram,221,6
+179,Tavuk füme-100 gram,201,6
+180,Tavuk göğüs-100 gram,165,6
+181,Tavuk jambon-100 gram,100,6
+182,Tavuk kalça şiş-100 gram,177,6
+183,Tavuk kıyma-100 gram,143,6
+184,Tavuk salam-100 gram,124,6
+185,Dana antrikot-100 gram,168,6
+186,Dana biftek-100 gram,185,6
+187,Dana bonfile-100 gram,168,6
+188,Dana dil-100 gram,125,6
+189,Dana jambon-100 gram,181,6
+190,Dana kıyma-100 gram,155,6
+191,Dana pirzola-100 gram,188,6
+192,Dana salam-100 gram,445,6
+193,Dana sosis-100 gram,320,6
+194,Dana sucuk-100 gram,445,6
+195,Kuzu but-100 gram,231,6
+196,Kuzu incik-100 gram,376,6
+197,Kuzu kıyma-100 gram,244,6
+198,Kuzu kol-100 gram,231,6
+199,Kuzu pirzola-100 gram,343,6
+200,Barbun-70 gram,118,7
+201,Çinekop-60 gram,112,7
+202,Çipura-300 gram,360,7
+203,Fener balığı-100 gram,100,7
+204,İstavrit-25 gram,42,7
+205,Hamsi-20 gram,45,7
+206,Kalamar-250 gram,188,7
+207,Karides-8 gram,8,7
+208,Kılıç balığı-100 gram,164,7
+209,Levrek-300 gram,279,7
+210,Lüfer-200 gram,336,7
+211,Mezgit-200 gram,180,7
+212,Palamut-200 gram,336,7
+213,Somon-100 gram,183,7
+214,Ton balığı-100 gram,184,7
+215,Uskumru-200 gram,318,7
+216,Keçi sütü-100 gram,68,8
+217,Koyun sütü-100 gram,108,8
+218,Normal light süt-100 gram,35,8
+219,Normal yağlı süt-100 gram,61,8
+220,Laktozsuz süt-100 gram,62,8
+221,Light kefir-100 gram,41,8
+222,Light yoğurt-100 gram,57,8
+223,Tam yağlı kefir-100 gram,65,8
+224,Yağlı yoğurt-100 gram,84,8
+225,Çedar peyniri-25 gram,101,8
+226,Çökelek peyniri-25 gram,95,8
+227,Eski kaşar peyniri-25 gram,59,8
+228,Ezine keçi peyniri-25 gram,78,8
+229,Gravyer peyniri-25 gram,89,8
+230,Light beyaz peynir-25 gram,45,8
+231,Light dil peyniri-25 gram,45,8
+232,Light labne-25 gram,36,8
+233,Light taze kaşar peyniri-25 gram,56,8
+234,Lor peyniri-25 gram,21,8
+235,Krem peynir-25 gram,110,8
+236,Mozzerella-25 gram,70,8
+237,Normal beyaz peynir-25 gram,59,8
+238,Normal labne-25 gram,52,8
+239,Normal dil peyniri-25 gram,45,8
+240,Otlu peynir-25 gram,82,8
+241,Parmesan peyniri-25 gram,95,8
+242,Ricotta peyniri-25 gram,21,8
+243,Rokfor peyniri-25 gram,92,8
+244,Saf keçi peyniri-25 gram,59,8
+245,Taze kaşar peyniri-25 gram,101,8
+246,Tulum peyniri-25 gram,89,8
+247,Yörük peyniri-25 gram,71,8
+248,Bıldırcın yumurtası-1 adet,1,16
+249,Yumurta-1 adet,79,16
+250,Yumurta akı-1 adet,15,16
+251,Yumurta sarısı-1 adet,66,16
+252,Antep fıstığı-100 gram,590,9
+253,Ay çekirdeği-100 gram,560,9
+254,Badem-100 gram,600,9
+255,Ceviz-100 gram,650,9
+256,Çam fıstığı-100 gram,640,9
+257,Fındık-100 gram,630,9
+258,Kabak çekirdeği-100 gram,610,9
+259,Kaju fıstığı-100 gram,610,9
+260,Yer fıstığı-100 gram,580,9
+261,Anason tohumu-10 gram,34,10
+262,Çörek otu-10 gram,20,10
+263,Haşhaş tohumu-10 gram,53,10
+264,Keten tohumu-10 gram,46,10
+265,Ayçiçek yağı-1 tatlı kaşığı,44,11
+266,Canola yağı-1 tatlı kaşığı,44,11
+267,Fındık yağı-1 tatlı kaşığı,44,11
+268,Margarin-1 tatlı kaşığı,44,11
+269,Soya yağı-1 tatlı kaşığı,44,11
+270,Susam yağı-1 tatlı kaşığı,44,11
+271,Tereyağı-1 tatlı kaşığı,44,11
+272,Zeytinyağı-1 tatlı kaşığı,44,11
+273,Balzemik sirke-10 gram,1,12
+274,Elma sirkesi-10 gram,5,12
+275,Hardal-10 gram,7,12
+276,Ketçap-10 gram,11,12
+277,Mayonez light-10 gram,37,12
+278,Nar ekşisi sosu-10 gram,8,12
+279,Pesto sos-10 gram,52,12
+280,Pirinç sirkesi-10 gram,1,12
+281,Soya sosu-10 gram,7,12
+282,Üzüm sirkesi-10 gram,1,12
+283,Bamya turşusu-100 gram,30,13
+284,Biber turşusu-100 gram,14,13
+285,Domates turşusu-100 gram,10,13
+286,Fasülye turşusu-100 gram,30,13
+287,Havuç turşusu-100 gram,24,13
+288,Karnıbahar turşusu-100 gram,24,13
+289,Kereviz turşusu-100 gram,30,13
+290,Kuru soğan turşusu-100 gram,10,13
+291,Lahana turşusu-100 gram,10,13
+292,Pancar turşusu-100 gram,10,13
+293,Patlıcan turşusu-100 gram,10,13
+294,Salatalık turşusu-100 gram,6,13
+295,Taze soğan turşusu-100 gram,10,13
+296,Ahududu reçeli-100 gram,270,14
+297,Bal-100 gram,320,14
+298,Beyaz şeker-100 gram,390,14
+299,Böğürtlen reçeli-100 gram,270,14
+300,Çilek reçeli-100 gram,270,14
+301,Dut pekmezi-100 gram,290,14
+302,Esmer şeker-100 gram,500,14
+303,Jöle-100 gram,620,14
+304,İncir reçeli-100 gram,270,14
+305,Kakao-100 gram,400,14
+306,Kayısı reçeli-100 gram,270,14
+307,Keçiboynuzu pekmezi-100 gram,290,14
+308,Pudra şekeri-100 gram,390,14
+309,Şekersiz kızılcık reçeli-100 gram,260,14
+310,Şeftali kompostosu-100 gram,68,14
+311,Üzüm pekmezi-100 gram,290,14
+312,Yaş pasta-100 gram,250,14
+313,Albeni-1 adet,194,15
+314,"Biskrem-1 paket (120 gr,)",594,15
+315,Burger whopper menü-1 menü,1163,15
+316,"Doritos nacho-1 paket (25 gr,)",124,15
+317,Eti canga-1 adet,231,15
+318,Köfteci Yusuf Köfte-100 gram,289,15
+319,Lays-100 gram,548,15
+320,"Magnum Antep fıstıklı-1 adet (75 gr,)",248,15
+321,"Magnum bademli-1 adet (76 gr,)",251,15
+322,"Magnum double çikolata-1 adet (72,5 gr,)",247,15
+323,"Magnum classic-1 adet (77 gr,)",239,15
+324,"Magnum tiramisu-1 adet (82 gr,)",250,15
+325,Mc donald’s chicken menü-1 menü,900,15
+326,Pop kek-1 adet,251,15
+327,Pringles-1 kutu,861,15
+328,Sade mısır cipsi-1 paket (orta),404,15
+329,Tavuk dünyası bi’köri-1 porsiyon,1174,15
+330,"Toblerone-1 paket (35 gr,)",184,15
+331,Eti tutku bisküvi-1 paket,507,15
